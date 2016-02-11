@@ -5,4 +5,4 @@ Description of assignment (in swedish) here: http://porkforge.mardby.se/index.ph
 
 I also did the assignment as an example/demo for my students.
 
-![cat](http://www.pngumg.com/upload/cat_PNG1631.png)
+![cat](http://www.pngimg.com/upload/cat_PNG1631.png)
